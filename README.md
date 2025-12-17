@@ -1,4 +1,5 @@
-<div style="height: 20px; background: linear-gradient(270deg, #ff85c0, #ff0080, #ff85c0); background-size: 600% 100%; animation: gradientMove 5s ease infinite;"></div>
+<img src="./franja.gif" alt="Franja rosa" width="100%">
+
 
 Holis! soy Anahelen Montaño ✨
 
@@ -23,20 +24,7 @@ Actualmente trabajo como **Customer Success Analyst Senior en Buk**, colaborando
 - Trabajo colaborativo
 
   
-<div style="height: 20px; background: linear-gradient(270deg, #ff85c0, #ff0080, #ff85c0); background-size: 600% 100%; animation: gradientMove 5s ease infinite;"></div>
-
-## Hi there 👋
-
-<!--
-**Anahelen/anahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<img src="./franja.gif" alt="Franja rosa" width="100%">
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
