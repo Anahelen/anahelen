@@ -1,5 +1,4 @@
-
-<img src="./franja.gif" alt="Franja rosa" width="100%">
+<img src="https://github.com/anahelen/anahelen/blob/main/franja.gif" alt="Franja rosa" width="100%">
 
 Holis! soy Anahelen Montaño ✨
 
