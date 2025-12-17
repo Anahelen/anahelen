@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#E6DAFF&height=100&section=header" alt="header"/> 
 
 
-#Holis! soy Anahelen Montaño
+# Holis! soy Anahelen Montaño
 
 Profesional de RRHH y Customer Success con más de 5 años de experiencia, con fuerte orientación al **análisis de datos**, **optimización de procesos** y **mejora continua de la experiencia del cliente**.
 
@@ -14,13 +14,9 @@ Actualmente trabajo como **Customer Success Analyst Senior en Buk**, colaborando
 - Google Data Analytics  
 - Automatización básica de procesos  
 
----
-
 ## 🤝 Habilidades blandas
 - Pensamiento analítico y crítico  
 - Comunicación efectiva  
 - Gestión de casos complejos  
 - Proactividad y autonomía  
 - Trabajo colaborativo
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#E6DAFF&height=100&section=footer" alt="footer"/>
