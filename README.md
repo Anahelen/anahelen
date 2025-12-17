@@ -1,5 +1,5 @@
-<img src="./franja.gif" alt="Franja rosa" width="100%">
 
+<img src="./franja.gif" alt="Franja rosa" width="100%">
 
 Holis! soy Anahelen Montaño ✨
 
@@ -25,7 +25,4 @@ Actualmente trabajo como **Customer Success Analyst Senior en Buk**, colaborando
 
   
 <img src="./franja.gif" alt="Franja rosa" width="100%">
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
